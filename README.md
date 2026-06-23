@@ -44,3 +44,15 @@ claude-code-skills/
     │   └── SKILL.md
     └── ai-book-outline-builder/
         └── SKILL.md
+
+
+## Skills Included
+
+| Skill | Purpose |
+|---|---|
+| [`humanizer`](skills/humanizer/SKILL.md) | Rewrite AI-like text into natural human writing |
+| [`decision-framer`](skills/decision-framer/SKILL.md) | Compare options and make better decisions |
+| [`linkedin-hook-forge`](skills/linkedin-hook-forge/SKILL.md) | Create strong LinkedIn hooks and post angles |
+| [`mvp-scope-builder`](skills/mvp-scope-builder/SKILL.md) | Define MVP scope, features, risks, and roadmap |
+| [`jurixai-legal-review`](skills/jurixai-legal-review/SKILL.md) | Structure legal AI workflows for JurixAI-style products |
+| [`ai-book-outline-builder`](skills/ai-book-outline-builder/SKILL.md) | Create structured AI book outlines and chapter plans |
