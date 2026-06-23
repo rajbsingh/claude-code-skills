@@ -1,3 +1,4 @@
+## Stage 1 ---
 # Claude Code Skills
 
 A personal collection of Claude Code skills, AI productivity workflows, and reusable prompt systems by **Raj Singh**.
@@ -44,7 +45,7 @@ claude-code-skills/
     │   └── SKILL.md
     └── ai-book-outline-builder/
         └── SKILL.md
-
+## Stage 2 ---
 
 ## Skills Included
 
@@ -56,3 +57,15 @@ claude-code-skills/
 | [`mvp-scope-builder`](skills/mvp-scope-builder/SKILL.md) | Define MVP scope, features, risks, and roadmap |
 | [`jurixai-legal-review`](skills/jurixai-legal-review/SKILL.md) | Structure legal AI workflows for JurixAI-style products |
 | [`ai-book-outline-builder`](skills/ai-book-outline-builder/SKILL.md) | Create structured AI book outlines and chapter plans |
+
+## Stage 3 ---
+## Featured AI Repositories
+
+- [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills)  
+  A personal collection of Claude Code skills, AI productivity workflows, and reusable prompt systems.
+
+## Current AI Focus
+
+- JurixAI — AI Legal Assistant for lawyers, SMEs, and legal teams
+- UNS Technology — AI SaaS, enterprise AI, and agentic AI products
+- AI productivity workflows for writing, product planning, and MVP development
