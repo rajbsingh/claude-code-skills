@@ -1,31 +1,46 @@
 # Claude Code Skills
 
-A personal collection of Claude Code skills, AI productivity prompts, and reusable workflows by Raj Singh.
+A personal collection of Claude Code skills, AI productivity workflows, and reusable prompt systems by **Raj Singh**.
 
 ## Purpose
 
-This repository is for storing practical AI workflows that help with:
+This repository stores practical AI skills and workflows for:
 
 - Claude Code usage
-- Prompt engineering
-- AI-assisted coding
+- AI-assisted writing
+- AI-assisted product planning
 - LinkedIn content creation
+- MVP planning
+- Legal AI product thinking
 - AI book writing
-- Startup decision-making
-- JurixAI product planning
-- MVP development
+- Startup and business decision-making
 
-## Planned Skills
+## Skills Included
 
-| Skill Name | Purpose |
+| Skill | Purpose |
 |---|---|
-| humanizer.skill | Rewrite AI-like text into natural human writing |
-| decision-framer.skill | Help make clear business and product decisions |
-| linkedin-hook-forge.skill | Create strong LinkedIn post hooks |
-| mvp-scope-builder.skill | Define MVP features clearly |
-| jurixai-legal-review.skill | Support legal AI review workflows |
-| ai-book-outline-builder.skill | Build structured AI book outlines |
+| `humanizer` | Rewrite AI-like text into natural human writing |
+| `decision-framer` | Compare options and make better decisions |
+| `linkedin-hook-forge` | Create strong LinkedIn hooks and post angles |
+| `mvp-scope-builder` | Define MVP scope, features, risks, and roadmap |
+| `jurixai-legal-review` | Structure legal AI workflows for JurixAI-style products |
+| `ai-book-outline-builder` | Create structured AI book outlines and chapter plans |
 
-## Status
+## Repository Structure
 
-Work in progress.
+```text
+claude-code-skills/
+├── README.md
+└── skills/
+    ├── humanizer/
+    │   └── SKILL.md
+    ├── decision-framer/
+    │   └── SKILL.md
+    ├── linkedin-hook-forge/
+    │   └── SKILL.md
+    ├── mvp-scope-builder/
+    │   └── SKILL.md
+    ├── jurixai-legal-review/
+    │   └── SKILL.md
+    └── ai-book-outline-builder/
+        └── SKILL.md
